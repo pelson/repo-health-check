@@ -1,0 +1,13 @@
+engines:
+  csslint:
+    enabled: true
+  coffeelint:
+    enabled: true
+  duplication:
+    enabled: true
+    config:
+      languages:
+      - coffeescript
+exclude_paths:
+- bower_components/**/*
+- lib/**/*
