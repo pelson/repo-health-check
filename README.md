@@ -22,15 +22,13 @@ rate limits are in effect. This avoids [problems similar projects](https://githu
 * **A company** wants to see if all its projects are being managed similarly.
 
 
-## Objectives
+## Development Status
 
-This will be a library which will be able to;
+One metric is implemented (**effectiveness**) and now we're brainstorming about next steps: 
 
-* Determine: does Project _want_ help?
-* Determine: does Project _accept_ help?
-* Rate a project:
-  * Is it well managed?
-    * (What exactly will this mean?)
+* More metrics
+* Advice for improving the issues found
+* New visualizations, and better UX
 
 
 ## Automated Signals
@@ -60,7 +58,8 @@ By using the raw signals listed above, we can calculate useful metrics. These me
 
 E.g.:
 * How well do the maintainers keep up with the queue of incoming PR's?
-
+* How quick do the maintainers respond to new issues and PR's?
+* How does the activity level affect the other metrics?
 
 ### Other sources
 
