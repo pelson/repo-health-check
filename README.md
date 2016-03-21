@@ -1,12 +1,17 @@
 # Repo Health Check
+
 Analyze a project and its management
+
+[![QA Status](https://nonstop.qa/projects/275/badges/default.svg)](https://nonstop.qa/projects/275-repo-health-check)
+
+
 
 ![screenshot](https://raw.githubusercontent.com/dogweather/repo-health-check/master/docs/screenshot.jpg)
 
 [Live app →](http://repocheck.com/)
 
-This is a fully client-side GitHub/BitBucket repo analyzer. It finds out: Is a
-project well managed? Does it _accept_ help? How does it compare to other
+A fully client-side GitHub/BitBucket repo analyzer. It finds out: Is a
+project well managed? Does it _accept help_? How does it compare to other
 options? And then: what should you do to take your repo from **in the weeds** to
 **_super effective_**?
 
