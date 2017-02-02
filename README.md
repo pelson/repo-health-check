@@ -2,11 +2,8 @@
 
 Analyze a project and its management
 
-[![QA Status](https://nonstop.qa/projects/275/badges/default.svg)](https://nonstop.qa/projects/275-repo-health-check)
 
-
-
-![screenshot](https://raw.githubusercontent.com/dogweather/repo-health-check/master/docs/screenshot.jpg)
+![screenshot](https://raw.githubusercontent.com/dogweather/repo-health-check/master/docs/screenshot-medium.jpg)
 
 [Live app →](http://repocheck.com/)
 
